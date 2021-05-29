@@ -11,6 +11,7 @@ module.exports = {
   devtool: 'source-map',
 
   module: {
+    noParse: /(mapbox-gl)\.js$/,
     rules: [
       {
         // Compile ES2015 using babel
