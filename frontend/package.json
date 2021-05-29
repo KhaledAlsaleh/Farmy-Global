@@ -50,5 +50,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.1"
   }
 }
