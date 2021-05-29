@@ -18,6 +18,7 @@ import BundleDetailsScreen from './screens/BundleDetailsScreen';
 import SubscriptionListScreen from './screens/SubscriptionListScreen';
 import PreferenceScreen from './screens/PreferenceScreen';
 import RegisterBundleScreen from './screens/RegisterBundleScreen';
+import 'mapbox-gl/dist/mapbox-gl.css';
 
 const App = () => {
   return (
