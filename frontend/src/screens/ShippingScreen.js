@@ -63,7 +63,6 @@ const ShippingScreen = ({ history }) => {
         <Form.Group controlId="phoneNumber" onBlur={validatePhoneNumber}>
           <Form.Label>Phone Number</Form.Label>
           <PhoneInput
-            // style={{ backgroundColor: 'white' }}
             international
             defaultCountry="NL"
             placeholder="Enter phone number"

@@ -1,16 +1,16 @@
-import React from 'react'
-import FacebookLogin from 'react-facebook-login/dist/facebook-login-render-props'
-import { useDispatch } from 'react-redux'
-import { Button } from 'react-bootstrap'
-import { authFacebook } from '../actions/userActions'
+import React from 'react';
+import FacebookLogin from 'react-facebook-login/dist/facebook-login-render-props';
+import { useDispatch } from 'react-redux';
+import { Button } from 'react-bootstrap';
+import { authFacebook } from '../actions/userActions';
 
 const FacebookAuth = ({ apiKey, registerEvent }) => {
-  const dispatch = useDispatch()
+  const dispatch = useDispatch();
 
   const responseFacebook = (response) => {
-    dispatch(authFacebook(response.accessToken, response.userID))
-    registerEvent()
-  }
+    dispatch(authFacebook(response.accessToken, response.userID));
+    registerEvent();
+  };
 
   return (
     <div>
@@ -19,10 +19,10 @@ const FacebookAuth = ({ apiKey, registerEvent }) => {
         render={(renderProps) => (
           <Button
             onClick={renderProps.onClick}
-            className='btn btn-block my-2 btn-facebook'
+            className="btn btn-block my-2 btn-facebook"
             style={{ backgroundColor: '#3C66C4', border: 'none' }}
           >
-            <i style={{ float: 'left' }} className='fab fa-facebook-f py-1'></i>
+            <i style={{ float: 'left' }} className="fab fa-facebook-f py-1"></i>
             Continue with Facebook
           </Button>
         )}
@@ -30,7 +30,7 @@ const FacebookAuth = ({ apiKey, registerEvent }) => {
         callback={responseFacebook}
       />
     </div>
-  )
-}
+  );
+};
 
-export default FacebookAuth
+export default FacebookAuth;

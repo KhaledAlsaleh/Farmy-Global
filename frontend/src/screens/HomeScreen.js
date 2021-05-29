@@ -128,7 +128,7 @@ const HomeScreen = ({ match }) => {
               </Container>
             </>
           )}
-          <Container className="mb-5">
+          <Container className="mb-5" className={!userInfo && 'bundlesPadding'}>
             <h1>Our Bundles</h1>
 
             <Filter keyword={keyword} />
