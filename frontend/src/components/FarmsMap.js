@@ -49,7 +49,6 @@ const FarmsMap = () => {
         {...viewport}
         onViewportChange={setViewport}
         mapboxApiAccessToken="pk.eyJ1IjoiZmFybXkiLCJhIjoiY2twNWFkNjZsMDBkdjJ2cGdvNXh4cm54bSJ9.xl6dtLVVGVKG0B7EGZ6mnA"
-        mapStyle="mapbox://styles/farmy/ckoygud5q2ilp17mhpwgqk0f9"
       >
         {farm?.map(({ coordinates, description, name, number }) => (
           <Marker
