@@ -6,10 +6,12 @@ import Message from './Message';
 import { listFarms } from '../actions/farmActions';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import '../index.css';
+// @ts-ignore
+// eslint-disable-next-line import/no-webpack-loader-syntax, import/no-unresolved
+ReactMapGL.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
 
 const FarmsMap = () => {
   const dispatch = useDispatch();
-
   const [viewport, setViewport] = React.useState({
     latitude: 52.0326,
     longitude: 5.2913,
