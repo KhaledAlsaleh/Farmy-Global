@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Dutch Farm",
+    "description": "Donec ut sollicitudin dolor. Sed a dictum erat, eget vulputate nisi. Nunc ac quam at tellus consequat sagittis.",
+    "coordinates": { "lat": 52.30879864206189, "lon": 5.84656215947842 },
+    "story": "Our goal is to restore the health and vitality of the land and to nourish those who eat of its bounty",
+    "image": "https://images.pexels.com/photos/1486976/pexels-photo-1486976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313082"
+  },
+  {
+    "name": "Modern Farm",
+    "description": "Donec vehicula a leo ut auctor. Cras sagittis felis et sem ultrices, a rhoncus purus rutrum. Sed at ultricies nibh, rhoncus congue enim.",
+    "coordinates": { "lat": 51.64575274473481, "lon": 5.094509898367651 },
+    "story": "Our farm produces the best vegetables in the whole Netherlands",
+    "image": "https://images.pexels.com/photos/5644292/pexels-photo-5644292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313772"
+  },
+  {
+    "name": "Toon Farm Family",
+    "description": "Nunc sed vehicula nisl. Donec eleifend dapibus ultrices. Nunc vitae eros eget neque pharetra tincidunt at eget odio.",
+    "coordinates": { "lat": 52.77989794057259, "lon": 5.967647085041341 },
+    "story": "I am a third generation farmer. The farm remains my life's work that brings me joy",
+    "image": "https://images.pexels.com/photos/1486976/pexels-photo-1486976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313554"
+  },
+  {
+    "name": "West Farm",
+    "description": "Aliquam at ligula orci. Donec velit quam, faucibus vel ornare et, lacinia quis dolor.",
+    "coordinates": { "lat": 50.90017194519338, "lon": 5.818126158157645 },
+    "story": "We are happy to share with others fresh fruits from our gardens",
+    "image": "https://images.pexels.com/photos/6027628/pexels-photo-6027628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313123"
+  },
+  {
+    "name": "WDF",
+    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec dictum pharetra nulla quis congue.",
+    "coordinates": { "lat": 52.753976422302244, "lon": 4.838149714833168 },
+    "story": "We use renewable energy sources in the production of our products",
+    "image": "https://images.pexels.com/photos/1486976/pexels-photo-1486976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313029"
+  },
+  {
+    "name": "Green Valley",
+    "description": "Quisque ullamcorper diam id risus dignissim consequat. Phasellus fermentum risus eu metus varius volutpat.",
+    "coordinates": { "lat": 53.12843074731483, "lon": 7.100325748003816 },
+    "story": "We try to meet the highest quality in the production of our products",
+    "image": "https://images.pexels.com/photos/974314/pexels-photo-974314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313761"
+  },
+  {
+    "name": "Three Brothers",
+    "description": "Quisque ullamcorper diam id risus dignissim consequat. Phasellus fermentum risus eu metus varius volutpat.",
+    "coordinates": { "lat": 51.6802058053658, "lon": 5.748364921120942 },
+    "story": "We try to meet the highest quality in the production of our products",
+    "image": "https://images.pexels.com/photos/1486976/pexels-photo-1486976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313634"
+  },
+  {
+    "name": "Green Field",
+    "description": "Quisque ullamcorper diam id risus dignissim consequat. Phasellus fermentum risus eu metus varius volutpat.",
+    "coordinates": { "lat": 53.136539836059946, "lon": 5.537513665000498 },
+    "story": "We try to meet the highest quality in the production of our products",
+    "image": "https://images.pexels.com/photos/5644292/pexels-photo-5644292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313334"
+  },
+  {
+    "name": "Ark Park",
+    "description": "Quisque ullamcorper diam id risus dignissim consequat. Phasellus fermentum risus eu metus varius volutpat.",
+    "coordinates": { "lat": 53.16692325200588, "lon": 6.51972912618812 },
+    "story": "We try to meet the highest quality in the production of our products",
+    "image": "https://images.pexels.com/photos/1486976/pexels-photo-1486976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313356"
+  },
+  {
+    "name": "Sunshine",
+    "description": "Quisque ullamcorper diam id risus dignissim consequat. Phasellus fermentum risus eu metus varius volutpat.",
+    "coordinates": { "lat": 52.85800711518511, "lon": 6.793253535269512 },
+    "story": "We try to meet the highest quality in the production of our products",
+    "image": "https://images.pexels.com/photos/1486976/pexels-photo-1486976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313094"
+  },
+  {
+    "name": "Warm Country",
+    "description": "Quisque ullamcorper diam id risus dignissim consequat. Phasellus fermentum risus eu metus varius volutpat.",
+    "coordinates": { "lat": 51.51573199275889, "lon": 3.7830583530376733 },
+    "story": "We try to meet the highest quality in the production of our products",
+    "image": "https://images.pexels.com/photos/5644292/pexels-photo-5644292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313645"
+  },
+  {
+    "name": "Johnson Farm",
+    "description": "Quisque ullamcorper diam id risus dignissim consequat. Phasellus fermentum risus eu metus varius volutpat.",
+    "coordinates": { "lat": 52.12068078843498, "lon": 4.347310276782381 },
+    "story": "We try to meet the highest quality in the production of our products",
+    "image": "https://images.pexels.com/photos/1486976/pexels-photo-1486976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "number": "+31681313412"
+  }
+]

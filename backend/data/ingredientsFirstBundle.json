@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Fiery Panang chicken curry",
+    "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/Frozen-Panangchickencurry_1000x1000.jpg?v=1596628108",
+    "description": "Our spin on the spiced Malaysian classic hits your table as quick as a takeaway, but is lighter – with free-range chicken breast, spinach, juicy peppers and crunchy cashews.",
+    "status": "",
+    "category": "FROZEN-PANANGCHICKENCURRY",
+    "price": 9.99,
+    "countInStock": 0,
+    "rating": 0,
+    "numReviews": 0
+  },
+  {
+    "name": "Creamy coconut fish pie",
+    "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/PanangchickenpulloutblockZOOM_1000x1000.jpg?v=1596119276",
+    "description": "Our decadent fish pie is a real crowd-pleaser, brimming with sustainably sourced fish chunks and lashings of coconut milk. We’ve snuck in healthy greens too: leafy spinach and green beans.",
+    "status": "",
+    "category": "PANANGCHICKENPULLOUTBLOCKZOOM",
+    "price": 6.95,
+    "countInStock": 0,
+    "rating": 0,
+    "numReviews": 0
+  },
+  {
+    "name": "Chicken tikka masala",
+    "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/FrozenmealimageswithroundelsOct20206_1000x1000.jpg?v=1605113856",
+    "description": "Free-range chicken breast, plump cherry tomatoes, spinach and velvety coconut milk: we’ve given this crowd-pleasing curry a Mindful Chef makeover. A sprinkling of moreish coconut chips adds crunch.",
+    "status": "",
+    "category": "FROZENMEALIMAGESWITHROUNDELSOCT20206",
+    "price": 9.99,
+    "countInStock": 0,
+    "rating": 0,
+    "numReviews": 0
+  },
+  {
+    "name": "Veggie shepherd’s pie",
+    "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/FishpiepulloutblockZOOM_nopeas_1000x1000.jpg?v=1610473634",
+    "description": "Juicy mushrooms, earthy chestnuts, hearty beans – we’ve packed our meat-free spin on shepherd’s pie with all kinds of veg. It’s topped with a fluffy sweet potato mash.",
+    "status": "",
+    "category": "FISHPIEPULLOUTBLOCKZOOM NOPEAS",
+    "price": 6.95,
+    "countInStock": 0,
+    "rating": 0,
+    "numReviews": 0
+  },
+  {
+    "name": "Creamy lentil moussaka",
+    "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/Chickentikkamasalawithbrownricetopdown-4_1000x1000.jpg?v=1611839114",
+    "description": "Our plant-based moussaka is irresistible – starring cinnamon-spiced lentils, savoury tomato sauce and tender aubergine. You’ll go crazy for our vegan béchamel, made with creamy coconut.",
+    "status": "",
+    "category": "CHICKENTIKKAMASALAWITHBROWNRICETOPDOWN-4",
+    "price": 9.99,
+    "countInStock": 0,
+    "rating": 0,
+    "numReviews": 0
+  },
+  {
+    "name": "Moroccan lamb shoulder tagine",
+    "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/ChickentikkamasalapulloutblockZOOM_1000x1000.jpg?v=1596119385",
+    "description": "Tender chunks of pasture-grazed British lamb coated in a Moroccan-style stew, fragranced by warm cinnamon and dried apricots. On the side: fluffy British quinoa, to soak up all that flavour.",
+    "status": "",
+    "category": "CHICKENTIKKAMASALAPULLOUTBLOCKZOOM",
+    "price": 6.95,
+    "countInStock": 0,
+    "rating": 0,
+    "numReviews": 0
+  }
+]

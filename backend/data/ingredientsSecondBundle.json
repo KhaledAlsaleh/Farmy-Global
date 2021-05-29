@@ -1,0 +1,68 @@
+[
+    {
+        "name": "New: Smoothie Breakfast Bundle",
+        "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/Frozen2021-packaging-18-1-21-Smoothies2_1000x1000.jpg?v=1611236314",
+        "description": "Kick off your day with delicious smoothies rich in fibre! This bundle contains two of each of our 3 breakfast smoothies:2 x Berry Breakfast - Banana, Blueberry, Raspberry, Gluten Free Oats",
+        "status": "",
+        "category": "FROZEN2021-PACKAGING-18-1-21-SMOOTHIES2",
+        "price": 9.99,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0
+    },
+    {
+        "name": "New: Smoothie Flavour Blast Bundle (Pack of 12)",
+        "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/Breakfastbundlesplitimage_1000x1000.jpg?v=1608566543",
+        "description": "Our new sampling of Springtime flavours. This bundle contains two packs of each smoothie:2 x Raspberry Rhubarb - Apple, Rhubarb, Pomegranate, Raspberries",
+        "status": "",
+        "category": "BREAKFASTBUNDLESPLITIMAGE",
+        "price": 14.00,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0
+    },
+    {
+        "name": "Smoothie Taster Bundle (Pack of 12)",
+        "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/Frozen2021-packaging-18-1-21-Smoothies1_1000x1000.jpg?v=1611236180",
+        "description": "The best way to find your favourite! This bundle contains two servings of our 6 best-selling smoothies:2 x Dragonfruit - Banana, Mango, Purple Dragon Fruit 2 x Lean Green - Apple, Pear, Spinach, Carrot, Ginger 2 x Orange Energizer - Mandarin, Mango, Carrot, Turmeric, Ginger 2 x Coconut Cooler - Mango, Pineapple, Banana, Coconut 2 x Berry Blast - Banana, Strawberry, Blueberry, Flax 2 x Berry Breakfast - Banana, Blueberry, Raspberry, Gluten Free Oats",
+        "status": "",
+        "category": "FROZEN2021-PACKAGING-18-1-21-SMOOTHIES1",
+        "price": 9.99,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0
+    },
+    {
+        "name": "Mango Lime Smoothie (Pack of 5)",
+        "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/Smoothie-Supergreen_ingredients_2c748bb3-abdc-4ed6-bffc-5474c2b364fb_1000x1000.jpg?v=1610095127",
+        "description": "A golden blend that tastes as vibrant as it looks. A twist of lime brings the tropical fruit flavours in this smoothie to life: succulent mango, exotic papaya, sweet pineapple.",
+        "status": "",
+        "category": "SMOOTHIE-SUPERGREEN INGREDIENTS 2C748BB3-ABDC-4ED6-BFFC-5474C2B364FB",
+        "price": 24.00,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0
+    },
+    {
+        "name": "Watermelon Chia Smoothie (Pack of 5)",
+        "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/SMOOTHIES-topdowngroupnew-square_1000x1000.jpg?v=1590686933",
+        "description": "Summer's ultimate thirst-quencher. Juicy watermelon, sweet strawberry and smooth banana blitz with zingy lime and filling chia seeds to make a bright breakfast or post-workout refresher.",
+        "status": "",
+        "category": "SMOOTHIES-TOPDOWNGROUPNEW-SQUARE",
+        "price": 9.99,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0
+    },
+    {
+        "name": "Strawberry Goji Smoothie (Pack of 5)",
+        "image": "//cdn.shopify.com/s/files/1/0033/0212/9773/products/LeanGreen_1000x1000.jpg?v=1595418632",
+        "description": "Pink power! Sweet strawberry and creamy banana join sour cherries and tart red goji berries in this vitamin C-packed smoothie. Papaya lends a gentle exotic fruitiness.",
+        "status": "",
+        "category": "LEANGREEN",
+        "price": 24.00,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0
+    }
+]
